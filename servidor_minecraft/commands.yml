@@ -1,0 +1,11 @@
+command-block-overrides: []
+ignore-vanilla-permissions: true
+aliases:
+  icanhasbukkit:
+  - version $1-
+  ban:
+  - tempban $1 $2 $3
+  pcl:
+  - lpc help
+e:
+- lp editor

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.51.248.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751377220252
+  login: 1751592728215
+money: '0'
+last-account-name: Thskl
+lastlocation:
+  world: 6b4c3805-027e-46e9-86e2-c4cc69ccd24f
+  world-name: world
+  x: 38.5
+  y: 69.0
+  z: -2.5
+  yaw: 1.383070945739746
+  pitch: 0.0
+logoutlocation:
+  world: 6b4c3805-027e-46e9-86e2-c4cc69ccd24f
+  world-name: world
+  x: 78.3257288201802
+  y: 75.53141662088483
+  z: -50.28007717564909
+  yaw: -16.771818161010742
+  pitch: 46.70384979248047

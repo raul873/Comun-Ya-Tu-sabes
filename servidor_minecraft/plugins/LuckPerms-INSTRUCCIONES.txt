@@ -1,0 +1,12 @@
+LuckPerms descarga oficial: https://luckperms.net/download
+
+1. Haz clic en el enlace y descarga el archivo LuckPerms-Spigot.jar (compatible con 1.21).
+2. Coloca el archivo descargado en la carpeta plugins de tu servidor.
+3. Reinicia el servidor para que LuckPerms se instale.
+
+¡Listo! Ahora puedes usar LuckPerms en tu servidor 1.21.
+
+Comando para darte permisos de admin:
+/lp user Thskl permission set * true
+
+Si necesitas ayuda con la configuración, avísame.
